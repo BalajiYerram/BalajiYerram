@@ -3,7 +3,6 @@
 🔌 **Core Trainee at TG-TRANSCO (EEE)**  
 💻 Passionate Software Engineering Learner | Tech Enthusiast
 
----
 
 ## 🙋‍♂️ About Me
 
@@ -12,7 +11,6 @@
 - 🤖 Strong interest in **Automation**, **Smart Grid Systems**, and **AI**
 - 🚀 Learning step-by-step and sharing my progress through code
 
----
 
 ## 🛠 Tech Stack
 
@@ -20,7 +18,6 @@
 - 🌐 **Web Development:** `HTML`, `CSS`
 - ⚙️ **Tools:** `Git`, `GitHub`, `VS Code`
 
----
 
 ## 🌱 Currently Learning
 
@@ -28,18 +25,16 @@
 - 🧠 Basics of machine learning and smart systems
 - 🚀 Exploring simple automation using Python
 
----
+
 
 ## 📫 Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/balaji-yerram-423176280/)  
 - 📧 Email: balajiyerram@gmail.com
 
----
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+
+
 
 
 
